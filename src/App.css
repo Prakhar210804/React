@@ -1,0 +1,23 @@
+.list {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+   border: solid rgb(109, 101, 101) 1px ;
+   margin: 0;
+   padding: 10px;
+   list-style: none;
+}
+.navList{
+  display: flex;
+  width: 400px;
+  justify-content: space-around;
+  list-style: none;
+}
+.head{
+   display: flex;
+   list-style: none;
+   justify-content: space-around;
+   border: solid black 2px ;
+   margin: 0;
+   font-weight: 700;
+}
